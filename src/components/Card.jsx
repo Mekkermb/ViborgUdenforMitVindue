@@ -7,7 +7,7 @@ export default function Card(props) {
     >
       <img
         className="aspect-[3/4] object-cover"
-        src={`./assets/images/${props.img}`}
+        src={`/assets/images/${props.img}`}
         alt=""
       />
     </article>
