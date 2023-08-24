@@ -7,8 +7,8 @@ export default function App() {
   //render site.
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/gallery" element={<Gallery />} />
+      <Route path="/ViborgIndefraMitVindue" element={<Home />} />
+      <Route path="/ViborgIndefraMitVindue/gallery" element={<Gallery />} />
     </Routes>
   );
 }
