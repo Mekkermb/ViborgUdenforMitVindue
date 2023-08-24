@@ -2,7 +2,7 @@ import Card from "../components/Card";
 import Hero from "../components/Hero";
 import Back from "../components/Back";
 import Footer from "../components/Footer";
-import data from "../data/data";
+import data from "../../data/data";
 
 export default function Gallery() {
   const cards = data.map((card) => {
