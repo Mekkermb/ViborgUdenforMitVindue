@@ -7,12 +7,12 @@ export default function Intro() {
         <article className="relative mb-16 max-w-[66vw] self-end lg:mb-32">
           <video
             className="absolute aspect-[3/4] rounded-bl-2xl object-cover opacity-0 shadow-2xl transition-opacity lg:aspect-[4/3]"
-            src="src/assets/videos/IMG_3656.MOV"
+            src="/assets/videos/IMG_3656.MOV"
             muted
           ></video>
           <img
             className="aspect-[3/4] rounded-bl-2xl object-cover shadow-2xl lg:aspect-[4/3]"
-            src="src/assets/images/IMG_3656.JPG"
+            src="/assets/images/IMG_3656.JPG"
             alt=""
           />
         </article>
@@ -20,13 +20,13 @@ export default function Intro() {
         <article className="relative mx-8 max-w-[33vw] self-end">
           <video
             className="absolute aspect-[3/4] rounded-bl-2xl object-cover opacity-0 shadow-2xl transition-opacity lg:aspect-[4/3]"
-            src="src/assets/videos/IMG_3656.MOV"
+            src="/assets/videos/IMG_3656.MOV"
             muted
           ></video>
           <img
             className="aspect-[3/4] rounded-2xl object-cover lg:aspect-[4/3]"
             shadow-2xl
-            src="src/assets/images/IMG_3656.JPG"
+            src="/assets/images/IMG_3656.JPG"
             alt=""
           />
         </article>
@@ -34,12 +34,12 @@ export default function Intro() {
         <article className="relative max-w-[33vw] self-center">
           <video
             className="absolute aspect-[3/4] rounded-bl-2xl object-cover opacity-0 shadow-2xl transition-opacity lg:aspect-[4/3]"
-            src="src/assets/videos/IMG_3657.MOV"
+            src="/assets/videos/IMG_3657.MOV"
             muted
           ></video>
           <img
             className="aspect-[3/4] rounded-2xl object-cover shadow-2xl lg:aspect-[4/3]"
-            src="src/assets/images/IMG_3657.JPG"
+            src="/assets/images/IMG_3657.JPG"
             alt=""
           />
         </article>
@@ -47,7 +47,7 @@ export default function Intro() {
         <article className="mx-8 max-w-[33vw] self-start">
           <img
             className="aspect-[3/4] rounded-2xl object-cover shadow-2xl lg:aspect-[4/3]"
-            src="src/assets/images/IMG_3658.JPG"
+            src="/assets/images/IMG_3658.JPG"
             alt=""
           />
         </article>
@@ -66,14 +66,14 @@ export default function Intro() {
         <article className="mx-8 max-w-[33vw] self-start">
           <img
             className="aspect-[3/4] rounded-2xl object-cover shadow-2xl lg:aspect-[4/3]"
-            src="src/assets/images/IMG_3662.JPG"
+            src="/assets/images/IMG_3662.JPG"
             alt=""
           />
         </article>
         <article className="max-w-[33vw] self-center">
           <img
             className="aspect-[3/4] rounded-2xl object-cover shadow-2xl lg:aspect-[4/3]"
-            src="src/assets/images/IMG_3664.JPG"
+            src="/assets/images/IMG_3664.JPG"
             alt=""
           />
         </article>
@@ -81,7 +81,7 @@ export default function Intro() {
         <article className="mx-8 max-w-[33vw] self-end">
           <img
             className="mb-16 aspect-[3/4] rounded-2xl object-cover shadow-2xl lg:mb-32 lg:aspect-[4/3]"
-            src="src/assets/images/IMG_3664.JPG"
+            src="/assets/images/IMG_3664.JPG"
             alt=""
           />
         </article>
@@ -89,7 +89,7 @@ export default function Intro() {
         <article className="mb-64 max-w-[66vw] self-end">
           <img
             className="aspect-[3/4] rounded-tl-2xl object-cover shadow-2xl lg:aspect-[4/3]"
-            src="src/assets/images/IMG_3664.JPG"
+            src="/assets/images/IMG_3664.JPG"
             alt=""
           />
         </article>
