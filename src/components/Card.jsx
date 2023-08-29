@@ -1,6 +1,8 @@
 export default function Card(props) {
   const handleImageClick = () => {
-    props.setEnlargedImage(`/assets/videos/${props.video}`);
+    props.setEnlargedImage(
+      `/ViborgUdenforMitVindue/assets/videos/${props.video}`,
+    );
   };
 
   return (
@@ -12,7 +14,7 @@ export default function Card(props) {
     >
       <img
         className="aspect-[3/4] object-cover lg:aspect-[4/3]"
-        src={`/assets/images/${props.img}`}
+        src={`/ViborgUdenforMitVindue/assets/images/${props.img}`}
         alt=""
       />
     </article>
