@@ -13,7 +13,7 @@ export default function Card(props) {
       onClick={handleImageClick}
     >
       <img
-        className="aspect-[3/4] object-cover lg:aspect-[4/3]"
+        className="aspect-[3/4] cursor-pointer object-cover lg:aspect-[4/3]"
         src={`/ViborgUdenforMitVindue/assets/images/${props.img}`}
         alt=""
       />
